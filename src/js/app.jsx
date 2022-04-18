@@ -1,4 +1,6 @@
+/* eslint-disable react/jsx-indent */
 import React from 'react';
+import IncomeEntries from './components/IncomeEntries';
 
 export default class App extends React.Component {
   render() {
